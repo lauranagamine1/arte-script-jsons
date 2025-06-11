@@ -9,3 +9,10 @@ Para correr el script:
 - Generar mensaje aleatorio tipo y cantidad
 
 python script.py --tipo correo --count 5
+
+Tipos:
+- whatsapp
+- correo
+- zoom
+- tarea
+- deadline

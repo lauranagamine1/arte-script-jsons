@@ -12,7 +12,9 @@ PROFESORES = [
     "Jorge Gonzalez Reaño",
     "Carlos Williams",
     "Geraldo Colchado",
-    "Violeta Reaño"
+    "Violeta Reaño",
+    "Angel Napa"
+
 ]
 
 CURSOS = [
@@ -22,7 +24,10 @@ CURSOS = [
     "Cloud Computing",
     "Base de Datos 1",
     "Programación 3",
-    "DBP"
+    "DBP",
+    "ADA",
+    "Teoría de la Computación",
+    "Estadístia 1"
 ]
 
 # Plantillas de mensajes para cada tipo
